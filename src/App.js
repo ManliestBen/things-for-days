@@ -125,7 +125,7 @@ const App = () => {
     {
       name: "dnd",
       image: "https://i.imgur.com/NicF3Yr.png",  
-      attributes: ["dice", "monsters", "swords", "beautiful"],
+      attributes: ["dice", "monsters", "swords", "beautiful", "not a taco"],
     },
   ])
 
